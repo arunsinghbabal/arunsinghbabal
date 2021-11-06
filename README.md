@@ -1,1 +1,1 @@
-# arunsinghbabal.github.io
+- 👋  Hi, I’m Arun Singh Babal. Currently, I am pursuing my D.Phil in engineering science. I am very much interested in the A.I. field i.e., machine learning, deep learning, and advanced computer vision. I will very much appreciate it if you look through my projects and give me your valuable suggestion on them. For that you can contact me on my email "arunsinghbabal.npl@gmail.com". 
